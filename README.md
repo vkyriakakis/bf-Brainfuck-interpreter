@@ -3,5 +3,5 @@ A toy interpreter for brainfuck. Have fun running some programs, or trying to cr
 don't hesitate to report it.
 
 To do:
-> Better error reporting system
-> Comments (never...)
+ Better error reporting system
+ Comments (never...)
